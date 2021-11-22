@@ -1,0 +1,52 @@
+html{
+    font-size: 20px;
+}
+
+/* Tabela Moda */ 
+
+.cabeca-moda{
+    background-color: #BB86FC;
+    color: #fff;
+}
+
+.corpo-moda{
+    padding: 9px 13px;
+}
+
+tr.conteudo1 {
+    background-color: #424250;
+    color: #fff;
+}
+
+tr.conteudo2 {
+    background-color: #424250;
+    color: #fff;
+}
+
+td.corpo-conteudo{
+    padding: 9px 13px;
+}
+
+/* Tabela Casa */
+
+tr.cabeca-casa{
+    background-color: #00C4B4;
+    color: #fff;
+}
+
+th.conteudo-casa{
+    padding: 9px 13px;
+}
+
+td.corpo-casa{
+    background-color: #424250;
+    color: #fff;
+}
+
+td.corpo-casa{
+    padding: 9px 13px;
+}
+
+p{
+    font-weight: 900;
+}
